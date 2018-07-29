@@ -1,0 +1,36 @@
+{
+  "name": "tutorial-crud-api-restfull-node-express-mongodb",
+  "version": "1.0.0",
+  "description": "Curso https://www.udemy.com/tutorial-crud-api-restful-com-node-express-mongodb/.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefferson-william/tutorial-crud-api-restfull-node-express-mongodb.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "express",
+    "mongodb",
+    "tutorial",
+    "crud",
+    "api",
+    "restfull"
+  ],
+  "author": "Jefferson William Machado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefferson-william/tutorial-crud-api-restfull-node-express-mongodb/issues"
+  },
+  "homepage": "https://github.com/jefferson-william/tutorial-crud-api-restfull-node-express-mongodb#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.5",
+    "request": "^2.87.0"
+  }
+}
